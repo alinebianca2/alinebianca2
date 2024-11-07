@@ -2,10 +2,6 @@
 
 **I started in the world of technology in 2020 and quickly fell in love** with the power of programming to turn ideas into solutions for businesses and users. I excel at bridging the gap between technology and business, which helps me create projects aligned with real needs. Currently, I'm highly focused on learning about mobile development.
 
- 🔭 **One of my recent and noteworthy projects** is the "Agrobot App" for Banco do Brasil, where I worked as a full-stack developer.
- 
-  This application serves agricultural producers, allowing them to calculate production costs, track commodity prices, access news, and check weather forecasts.
-
 💬 **If you'd like to chat** about tech, mobile tips, or anything else, feel free to shoot me a message on GitHub or through social media. Let's learn and grow together! 😊🚀
 
  💌 **You can contact me here**: ⤵️
