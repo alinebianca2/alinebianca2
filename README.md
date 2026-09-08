@@ -1,24 +1,14 @@
-## 💜 Hello, I'm Aline!</strong>
+### Hi, I'm Aline.
 
-**I started in the world of technology in 2020 and quickly fell in love** with the power of programming to turn ideas into solutions for businesses and users. I excel at bridging the gap between technology and business, which helps me create projects aligned with real needs. Currently, I'm highly focused on learning about mobile development.
+I'm a software developer who likes to build things that have a reason to exist.
 
-💬 **If you'd like to chat** about tech, mobile tips, or anything else, feel free to shoot me a message on GitHub or through social media. Let's learn and grow together! 😊🚀
+Most of my projects start with a question, a problem I notice, or something that I think could work better. I enjoy going from **“why doesn't this exist?”** to actually figuring out how to build it.
 
- 💌 **You can contact me here**: ⤵️
+I work mostly with **Java, Spring Boot, Angular, React and cloud technologies**, but I'm more interested in the problem than in being tied to a specific stack.
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+I like learning by building, experimenting with ideas and going down unexpected rabbit holes. My interests outside technology are equally scattered — from **history, literature and art to music, languages and culture** — and I like that they are scattered. I think having different references makes me better at creating things.
 
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alineteixeirahenriques/"/></a>
+This GitHub is a collection of things I'm building, studying, testing and occasionally obsessing over.
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-</p>
+**I build things because I'm curious about what they could become.**
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinebianca2&show_icons=true&theme=nightowl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinebianca2&layout=compact)
